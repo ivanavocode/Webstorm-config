@@ -1,0 +1,39 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="C:\Users\Admin\WebstormProjects\untitled1">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1f27aoU43HBbTHs9c9AdCbqVZWS">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.7288.28" />
+              <option name="buildTimestamp" value="1588783751463" />
+              <frame x="-8" y="-8" width="1936" height="1056" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1595404400983" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:\web\Angular\forms">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1f27vjVOefSxtl53OoUnSeq0LKk">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-193.7288.28" />
+              <option name="buildTimestamp" value="1588783769827" />
+              <frame x="2136" y="-21" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1595409513009" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/WebstormProjects" />
+    <option name="recentPaths">
+      <list>
+        <option value="D:\web\Angular\forms" />
+        <option value="C:\Users\Admin\WebstormProjects\untitled1" />
+      </list>
+    </option>
+  </component>
+</application>

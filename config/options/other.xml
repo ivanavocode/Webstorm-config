@@ -1,0 +1,22 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="12.13.1" last-modified="1574130030000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MarketplacePluginsSearchHistory" value="Visual Studio Code Dark Plus Theme&#10;/tag:&quot;User Interface&quot;&#10;vscode&#10;vs&#10;visual studio" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="WebStorm.disableSafeWrite" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.193" value="12" />
+    <property name="file.chooser.recent.files" value="D:/web/Angular/forms" />
+    <property name="file.gist.reindex.count" value="4" />
+    <property name="fileTypeChangedCounter" value="27" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.self.update.started.for.build" value="WS-193.7288.28" />
+    <property name="ideavim.statistics.timestamp" value="1595404566246" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.7.2" />
+  </component>
+</application>
